@@ -1,6 +1,463 @@
 {
-  "sourceUpdated": "2025-01-26T12:20:54Z",
+  "sourceUpdated": "2025-01-26T16:50:53Z",
   "results": [
+    {
+      "location": {
+        "length": 1216,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 54.72062,
+                  "lng": -1.52146
+                },
+                {
+                  "lat": 54.7204,
+                  "lng": -1.52138
+                },
+                {
+                  "lat": 54.7202,
+                  "lng": -1.5213
+                },
+                {
+                  "lat": 54.71996,
+                  "lng": -1.5212
+                },
+                {
+                  "lat": 54.71973,
+                  "lng": -1.5211
+                },
+                {
+                  "lat": 54.71947,
+                  "lng": -1.52098
+                },
+                {
+                  "lat": 54.7192,
+                  "lng": -1.52085
+                },
+                {
+                  "lat": 54.71897,
+                  "lng": -1.52073
+                },
+                {
+                  "lat": 54.71875,
+                  "lng": -1.52061
+                },
+                {
+                  "lat": 54.71854,
+                  "lng": -1.52049
+                },
+                {
+                  "lat": 54.71832,
+                  "lng": -1.52036
+                },
+                {
+                  "lat": 54.71807,
+                  "lng": -1.5202
+                },
+                {
+                  "lat": 54.7178,
+                  "lng": -1.52002
+                },
+                {
+                  "lat": 54.71753,
+                  "lng": -1.51984
+                },
+                {
+                  "lat": 54.71731,
+                  "lng": -1.51968
+                },
+                {
+                  "lat": 54.71707,
+                  "lng": -1.5195
+                },
+                {
+                  "lat": 54.71684,
+                  "lng": -1.51932
+                },
+                {
+                  "lat": 54.7166,
+                  "lng": -1.51913
+                },
+                {
+                  "lat": 54.71634,
+                  "lng": -1.51892
+                },
+                {
+                  "lat": 54.7161,
+                  "lng": -1.51871
+                },
+                {
+                  "lat": 54.71586,
+                  "lng": -1.51849
+                },
+                {
+                  "lat": 54.71563,
+                  "lng": -1.51827
+                },
+                {
+                  "lat": 54.71541,
+                  "lng": -1.51805
+                },
+                {
+                  "lat": 54.71521,
+                  "lng": -1.51785
+                },
+                {
+                  "lat": 54.71498,
+                  "lng": -1.51761
+                },
+                {
+                  "lat": 54.71475,
+                  "lng": -1.51736
+                },
+                {
+                  "lat": 54.71453,
+                  "lng": -1.51711
+                },
+                {
+                  "lat": 54.71433,
+                  "lng": -1.51688
+                },
+                {
+                  "lat": 54.71411,
+                  "lng": -1.51662
+                },
+                {
+                  "lat": 54.71389,
+                  "lng": -1.51635
+                },
+                {
+                  "lat": 54.71367,
+                  "lng": -1.51607
+                },
+                {
+                  "lat": 54.71347,
+                  "lng": -1.5158
+                },
+                {
+                  "lat": 54.71326,
+                  "lng": -1.51551
+                },
+                {
+                  "lat": 54.71306,
+                  "lng": -1.51523
+                },
+                {
+                  "lat": 54.71285,
+                  "lng": -1.51493
+                },
+                {
+                  "lat": 54.71266,
+                  "lng": -1.51465
+                },
+                {
+                  "lat": 54.71244,
+                  "lng": -1.51431
+                },
+                {
+                  "lat": 54.71223,
+                  "lng": -1.51398
+                },
+                {
+                  "lat": 54.712,
+                  "lng": -1.51361
+                },
+                {
+                  "lat": 54.71125,
+                  "lng": -1.5124
+                }
+              ],
+              "length": 1216
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "350779329907543689",
+        "hrn": "here:traffic:incident:350779329907543689",
+        "originalId": "350779329907543689",
+        "originalHrn": "here:traffic:incident:350779329907543689",
+        "startTime": "2015-03-10T00:00:00Z",
+        "endTime": "2026-08-25T22:59:00Z",
+        "entryTime": "2025-01-21T04:49:42Z",
+        "roadClosed": false,
+        "criticality": "major",
+        "type": "construction",
+        "codes": [701],
+        "description": {
+          "value": "At J60 Sedgefield - Road construction",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Road construction",
+          "language": "en-US"
+        }
+      }
+    },
+    {
+      "location": {
+        "length": 113,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 54.76013,
+                  "lng": -1.60776
+                },
+                {
+                  "lat": 54.76025,
+                  "lng": -1.60764
+                },
+                {
+                  "lat": 54.76034,
+                  "lng": -1.60757
+                }
+              ],
+              "length": 26
+            },
+            {
+              "points": [
+                {
+                  "lat": 54.76034,
+                  "lng": -1.60757
+                },
+                {
+                  "lat": 54.76066,
+                  "lng": -1.6073
+                }
+              ],
+              "length": 40
+            },
+            {
+              "points": [
+                {
+                  "lat": 54.76066,
+                  "lng": -1.6073
+                },
+                {
+                  "lat": 54.76087,
+                  "lng": -1.60712
+                }
+              ],
+              "length": 26
+            },
+            {
+              "points": [
+                {
+                  "lat": 54.76087,
+                  "lng": -1.60712
+                },
+                {
+                  "lat": 54.76104,
+                  "lng": -1.60698
+                }
+              ],
+              "length": 21
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "3822261159165063792",
+        "hrn": "here:traffic:incident:3822261159165063792",
+        "originalId": "3822261159165063792",
+        "originalHrn": "here:traffic:incident:3822261159165063792",
+        "startTime": "2024-12-11T15:55:38Z",
+        "endTime": "2027-12-11T16:24:00Z",
+        "entryTime": "2024-12-19T12:03:11Z",
+        "roadClosed": false,
+        "criticality": "low",
+        "type": "other",
+        "codes": [1861],
+        "description": {
+          "value": "At A167 at Stonebridge - Temporary height limit",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Temporary height limit",
+          "language": "en-US"
+        },
+        "vehicleRestrictions": [
+          {
+            "vehicleType": "motorVehicle",
+            "restriction": {
+              "size": {
+                "dimension": "height",
+                "greaterThan": 0
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "location": {
+        "length": 68,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 54.77687,
+                  "lng": -1.58048
+                },
+                {
+                  "lat": 54.77682,
+                  "lng": -1.58034
+                },
+                {
+                  "lat": 54.77678,
+                  "lng": -1.58021
+                },
+                {
+                  "lat": 54.77673,
+                  "lng": -1.58005
+                },
+                {
+                  "lat": 54.77668,
+                  "lng": -1.57985
+                },
+                {
+                  "lat": 54.77667,
+                  "lng": -1.57969
+                },
+                {
+                  "lat": 54.77668,
+                  "lng": -1.5796
+                },
+                {
+                  "lat": 54.77669,
+                  "lng": -1.57952
+                }
+              ],
+              "length": 68
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "1894865523004776313",
+        "hrn": "here:traffic:incident:1894865523004776313",
+        "originalId": "1894865523004776313",
+        "originalHrn": "here:traffic:incident:1894865523004776313",
+        "startTime": "2024-06-23T07:30:00Z",
+        "endTime": "2025-02-28T23:59:59Z",
+        "entryTime": "2025-01-13T15:41:12Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "roadClosure",
+        "codes": [405, 701],
+        "description": {
+          "value": "Closed to through traffic",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed to through traffic",
+          "language": "en-US"
+        },
+        "vehicleRestrictions": [
+          {
+            "vehicleType": "other",
+            "restriction": {
+              "trafficType": "throughTraffic"
+            }
+          }
+        ],
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 198,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 54.77358,
+                  "lng": -1.57478
+                },
+                {
+                  "lat": 54.77377,
+                  "lng": -1.57474
+                }
+              ],
+              "length": 21
+            },
+            {
+              "points": [
+                {
+                  "lat": 54.77377,
+                  "lng": -1.57474
+                },
+                {
+                  "lat": 54.77413,
+                  "lng": -1.57468
+                },
+                {
+                  "lat": 54.77431,
+                  "lng": -1.57465
+                },
+                {
+                  "lat": 54.77444,
+                  "lng": -1.57463
+                },
+                {
+                  "lat": 54.7746,
+                  "lng": -1.57462
+                },
+                {
+                  "lat": 54.77476,
+                  "lng": -1.5746
+                },
+                {
+                  "lat": 54.7749,
+                  "lng": -1.5746
+                },
+                {
+                  "lat": 54.77536,
+                  "lng": -1.57458
+                }
+              ],
+              "length": 177
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "3704464589089573854",
+        "hrn": "here:traffic:incident:3704464589089573854",
+        "originalId": "3704464589089573854",
+        "originalHrn": "here:traffic:incident:3704464589089573854",
+        "startTime": "2024-05-20T07:00:00Z",
+        "endTime": "2025-03-16T23:59:59Z",
+        "entryTime": "2025-01-21T12:17:31Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "roadClosure",
+        "codes": [405, 701],
+        "description": {
+          "value": "Closed to through traffic",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed to through traffic",
+          "language": "en-US"
+        },
+        "vehicleRestrictions": [
+          {
+            "vehicleType": "other",
+            "restriction": {
+              "trafficType": "throughTraffic"
+            }
+          }
+        ],
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
     {
       "location": {
         "length": 198,
@@ -88,181 +545,6 @@
           }
         ],
         "junctionTraversability": "intermediateClosedEdgeOpen"
-      }
-    },
-    {
-      "location": {
-        "length": 80,
-        "shape": {
-          "links": [
-            {
-              "points": [
-                {
-                  "lat": 54.77663,
-                  "lng": -1.5451
-                },
-                {
-                  "lat": 54.77673,
-                  "lng": -1.5451
-                },
-                {
-                  "lat": 54.77683,
-                  "lng": -1.54512
-                }
-              ],
-              "length": 22
-            },
-            {
-              "points": [
-                {
-                  "lat": 54.77683,
-                  "lng": -1.54512
-                },
-                {
-                  "lat": 54.77706,
-                  "lng": -1.54518
-                },
-                {
-                  "lat": 54.77734,
-                  "lng": -1.54527
-                }
-              ],
-              "length": 58
-            }
-          ]
-        }
-      },
-      "incidentDetails": {
-        "id": "119520757697878525",
-        "hrn": "here:traffic:incident:119520757697878525",
-        "originalId": "119520757697878525",
-        "originalHrn": "here:traffic:incident:119520757697878525",
-        "startTime": "2024-08-18T23:00:00Z",
-        "endTime": "2025-09-19T22:59:00Z",
-        "entryTime": "2024-12-19T12:16:07Z",
-        "roadClosed": false,
-        "criticality": "major",
-        "type": "construction",
-        "codes": [701],
-        "description": {
-          "value": "Road construction",
-          "language": "en-US"
-        },
-        "summary": {
-          "value": "Road construction",
-          "language": "en-US"
-        },
-        "comment": "New development works"
-      }
-    },
-    {
-      "location": {
-        "length": 158,
-        "shape": {
-          "links": [
-            {
-              "points": [
-                {
-                  "lat": 54.7614,
-                  "lng": -1.60666
-                },
-                {
-                  "lat": 54.76104,
-                  "lng": -1.60698
-                }
-              ],
-              "length": 45
-            },
-            {
-              "points": [
-                {
-                  "lat": 54.76104,
-                  "lng": -1.60698
-                },
-                {
-                  "lat": 54.76087,
-                  "lng": -1.60712
-                }
-              ],
-              "length": 21
-            },
-            {
-              "points": [
-                {
-                  "lat": 54.76087,
-                  "lng": -1.60712
-                },
-                {
-                  "lat": 54.76066,
-                  "lng": -1.6073
-                }
-              ],
-              "length": 26
-            },
-            {
-              "points": [
-                {
-                  "lat": 54.76066,
-                  "lng": -1.6073
-                },
-                {
-                  "lat": 54.76034,
-                  "lng": -1.60757
-                }
-              ],
-              "length": 40
-            },
-            {
-              "points": [
-                {
-                  "lat": 54.76034,
-                  "lng": -1.60757
-                },
-                {
-                  "lat": 54.76025,
-                  "lng": -1.60764
-                },
-                {
-                  "lat": 54.76013,
-                  "lng": -1.60776
-                }
-              ],
-              "length": 26
-            }
-          ]
-        }
-      },
-      "incidentDetails": {
-        "id": "2560461026256546510",
-        "hrn": "here:traffic:incident:2560461026256546510",
-        "originalId": "2560461026256546510",
-        "originalHrn": "here:traffic:incident:2560461026256546510",
-        "startTime": "2024-12-11T15:55:38Z",
-        "endTime": "2027-12-11T16:24:00Z",
-        "entryTime": "2024-12-19T12:03:11Z",
-        "roadClosed": false,
-        "criticality": "low",
-        "type": "other",
-        "codes": [1861],
-        "description": {
-          "value": "At A689 at Crook - Temporary height limit",
-          "language": "en-US"
-        },
-        "summary": {
-          "value": "Temporary height limit",
-          "language": "en-US"
-        },
-        "vehicleRestrictions": [
-          {
-            "vehicleType": "motorVehicle",
-            "restriction": {
-              "size": {
-                "dimension": "height",
-                "greaterThan": 0
-              }
-            }
-          }
-        ]
       }
     },
     {
@@ -631,18 +913,31 @@
     },
     {
       "location": {
-        "length": 198,
+        "length": 158,
         "shape": {
           "links": [
             {
               "points": [
                 {
-                  "lat": 54.77358,
-                  "lng": -1.57478
+                  "lat": 54.7614,
+                  "lng": -1.60666
                 },
                 {
-                  "lat": 54.77377,
-                  "lng": -1.57474
+                  "lat": 54.76104,
+                  "lng": -1.60698
+                }
+              ],
+              "length": 45
+            },
+            {
+              "points": [
+                {
+                  "lat": 54.76104,
+                  "lng": -1.60698
+                },
+                {
+                  "lat": 54.76087,
+                  "lng": -1.60712
                 }
               ],
               "length": 21
@@ -650,144 +945,12 @@
             {
               "points": [
                 {
-                  "lat": 54.77377,
-                  "lng": -1.57474
+                  "lat": 54.76087,
+                  "lng": -1.60712
                 },
                 {
-                  "lat": 54.77413,
-                  "lng": -1.57468
-                },
-                {
-                  "lat": 54.77431,
-                  "lng": -1.57465
-                },
-                {
-                  "lat": 54.77444,
-                  "lng": -1.57463
-                },
-                {
-                  "lat": 54.7746,
-                  "lng": -1.57462
-                },
-                {
-                  "lat": 54.77476,
-                  "lng": -1.5746
-                },
-                {
-                  "lat": 54.7749,
-                  "lng": -1.5746
-                },
-                {
-                  "lat": 54.77536,
-                  "lng": -1.57458
-                }
-              ],
-              "length": 177
-            }
-          ]
-        }
-      },
-      "incidentDetails": {
-        "id": "3704464589089573854",
-        "hrn": "here:traffic:incident:3704464589089573854",
-        "originalId": "3704464589089573854",
-        "originalHrn": "here:traffic:incident:3704464589089573854",
-        "startTime": "2024-05-20T07:00:00Z",
-        "endTime": "2025-03-16T23:59:59Z",
-        "entryTime": "2025-01-21T12:17:31Z",
-        "roadClosed": true,
-        "criticality": "critical",
-        "type": "roadClosure",
-        "codes": [405, 701],
-        "description": {
-          "value": "Closed to through traffic",
-          "language": "en-US"
-        },
-        "summary": {
-          "value": "Closed to through traffic",
-          "language": "en-US"
-        },
-        "vehicleRestrictions": [
-          {
-            "vehicleType": "other",
-            "restriction": {
-              "trafficType": "throughTraffic"
-            }
-          }
-        ],
-        "junctionTraversability": "intermediateClosedEdgeOpen"
-      }
-    },
-    {
-      "location": {
-        "length": 113,
-        "shape": {
-          "links": [
-            {
-              "points": [
-                {
-                  "lat": 54.7309,
-                  "lng": -1.58688
-                },
-                {
-                  "lat": 54.73078,
-                  "lng": -1.58684
-                },
-                {
-                  "lat": 54.73033,
-                  "lng": -1.58666
-                },
-                {
-                  "lat": 54.72992,
-                  "lng": -1.58644
-                }
-              ],
-              "length": 113
-            }
-          ]
-        }
-      },
-      "incidentDetails": {
-        "id": "572957136661422648",
-        "hrn": "here:traffic:incident:572957136661422648",
-        "originalId": "523959016033712874",
-        "originalHrn": "here:traffic:incident:523959016033712874",
-        "startTime": "2025-01-26T09:00:00Z",
-        "endTime": "2025-01-26T13:00:00Z",
-        "entryTime": "2025-01-26T08:02:55Z",
-        "roadClosed": false,
-        "criticality": "major",
-        "type": "construction",
-        "codes": [701],
-        "description": {
-          "value": "At A688 at Thinford - Road construction",
-          "language": "en-US"
-        },
-        "summary": {
-          "value": "Road construction",
-          "language": "en-US"
-        },
-        "comment": "Manhole cover replacement"
-      }
-    },
-    {
-      "location": {
-        "length": 113,
-        "shape": {
-          "links": [
-            {
-              "points": [
-                {
-                  "lat": 54.76013,
-                  "lng": -1.60776
-                },
-                {
-                  "lat": 54.76025,
-                  "lng": -1.60764
-                },
-                {
-                  "lat": 54.76034,
-                  "lng": -1.60757
+                  "lat": 54.76066,
+                  "lng": -1.6073
                 }
               ],
               "length": 26
@@ -795,12 +958,12 @@
             {
               "points": [
                 {
-                  "lat": 54.76034,
-                  "lng": -1.60757
-                },
-                {
                   "lat": 54.76066,
                   "lng": -1.6073
+                },
+                {
+                  "lat": 54.76034,
+                  "lng": -1.60757
                 }
               ],
               "length": 40
@@ -808,37 +971,28 @@
             {
               "points": [
                 {
-                  "lat": 54.76066,
-                  "lng": -1.6073
+                  "lat": 54.76034,
+                  "lng": -1.60757
                 },
                 {
-                  "lat": 54.76087,
-                  "lng": -1.60712
+                  "lat": 54.76025,
+                  "lng": -1.60764
+                },
+                {
+                  "lat": 54.76013,
+                  "lng": -1.60776
                 }
               ],
               "length": 26
-            },
-            {
-              "points": [
-                {
-                  "lat": 54.76087,
-                  "lng": -1.60712
-                },
-                {
-                  "lat": 54.76104,
-                  "lng": -1.60698
-                }
-              ],
-              "length": 21
             }
           ]
         }
       },
       "incidentDetails": {
-        "id": "3822261159165063792",
-        "hrn": "here:traffic:incident:3822261159165063792",
-        "originalId": "3822261159165063792",
-        "originalHrn": "here:traffic:incident:3822261159165063792",
+        "id": "2560461026256546510",
+        "hrn": "here:traffic:incident:2560461026256546510",
+        "originalId": "2560461026256546510",
+        "originalHrn": "here:traffic:incident:2560461026256546510",
         "startTime": "2024-12-11T15:55:38Z",
         "endTime": "2027-12-11T16:24:00Z",
         "entryTime": "2024-12-19T12:03:11Z",
@@ -847,7 +1001,7 @@
         "type": "other",
         "codes": [1861],
         "description": {
-          "value": "At A167 at Stonebridge - Temporary height limit",
+          "value": "At A689 at Crook - Temporary height limit",
           "language": "en-US"
         },
         "summary": {
@@ -865,82 +1019,6 @@
             }
           }
         ]
-      }
-    },
-    {
-      "location": {
-        "length": 68,
-        "shape": {
-          "links": [
-            {
-              "points": [
-                {
-                  "lat": 54.77687,
-                  "lng": -1.58048
-                },
-                {
-                  "lat": 54.77682,
-                  "lng": -1.58034
-                },
-                {
-                  "lat": 54.77678,
-                  "lng": -1.58021
-                },
-                {
-                  "lat": 54.77673,
-                  "lng": -1.58005
-                },
-                {
-                  "lat": 54.77668,
-                  "lng": -1.57985
-                },
-                {
-                  "lat": 54.77667,
-                  "lng": -1.57969
-                },
-                {
-                  "lat": 54.77668,
-                  "lng": -1.5796
-                },
-                {
-                  "lat": 54.77669,
-                  "lng": -1.57952
-                }
-              ],
-              "length": 68
-            }
-          ]
-        }
-      },
-      "incidentDetails": {
-        "id": "1894865523004776313",
-        "hrn": "here:traffic:incident:1894865523004776313",
-        "originalId": "1894865523004776313",
-        "originalHrn": "here:traffic:incident:1894865523004776313",
-        "startTime": "2024-06-23T07:30:00Z",
-        "endTime": "2025-02-28T23:59:59Z",
-        "entryTime": "2025-01-13T15:41:12Z",
-        "roadClosed": true,
-        "criticality": "critical",
-        "type": "roadClosure",
-        "codes": [405, 701],
-        "description": {
-          "value": "Closed to through traffic",
-          "language": "en-US"
-        },
-        "summary": {
-          "value": "Closed to through traffic",
-          "language": "en-US"
-        },
-        "vehicleRestrictions": [
-          {
-            "vehicleType": "other",
-            "restriction": {
-              "trafficType": "throughTraffic"
-            }
-          }
-        ],
-        "junctionTraversability": "intermediateClosedEdgeOpen"
       }
     },
     {
@@ -973,6 +1051,71 @@
         "hrn": "here:traffic:incident:4226061489575148293",
         "originalId": "4226061489575148293",
         "originalHrn": "here:traffic:incident:4226061489575148293",
+        "startTime": "2024-08-18T23:00:00Z",
+        "endTime": "2025-09-19T22:59:00Z",
+        "entryTime": "2024-12-19T12:16:07Z",
+        "roadClosed": false,
+        "criticality": "major",
+        "type": "construction",
+        "codes": [701],
+        "description": {
+          "value": "Road construction",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Road construction",
+          "language": "en-US"
+        },
+        "comment": "New development works"
+      }
+    },
+    {
+      "location": {
+        "length": 80,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 54.77663,
+                  "lng": -1.5451
+                },
+                {
+                  "lat": 54.77673,
+                  "lng": -1.5451
+                },
+                {
+                  "lat": 54.77683,
+                  "lng": -1.54512
+                }
+              ],
+              "length": 22
+            },
+            {
+              "points": [
+                {
+                  "lat": 54.77683,
+                  "lng": -1.54512
+                },
+                {
+                  "lat": 54.77706,
+                  "lng": -1.54518
+                },
+                {
+                  "lat": 54.77734,
+                  "lng": -1.54527
+                }
+              ],
+              "length": 58
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "119520757697878525",
+        "hrn": "here:traffic:incident:119520757697878525",
+        "originalId": "119520757697878525",
+        "originalHrn": "here:traffic:incident:119520757697878525",
         "startTime": "2024-08-18T23:00:00Z",
         "endTime": "2025-09-19T22:59:00Z",
         "entryTime": "2024-12-19T12:16:07Z",
